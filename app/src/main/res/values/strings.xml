@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hlit</string>
+    <string name="title">title</string>
+    <string name="desc">Desc</string>
+    <string name="save">Save</string>
+    <string name="floatingSave">floatingSave</string>
+    <string name="floatingDelete">floatingDelete</string>
+    <string name="delete">Delete</string>
+    <string name="description">Description</string>
+    <string name="there_is_no_note">There is no Note!! :(</string>
+    <string name="floatingAdd">floatingAdd</string>
+</resources>
